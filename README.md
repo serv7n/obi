@@ -1,7 +1,7 @@
 # 🧠 Olimpíada Brasileira de Informática (OBI) – Repositório de Soluções (2020–2024)
 
 <p align="center">
-  <img src="[https://www.obi.org.br/images/topo/logo-obi.png](https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2025-branco.svg)" width="300" alt="Logo da OBI">
+  <img src="https://olimpiada.ic.unicamp.br/static/extras/misc/logo-obi2025-branco.svg" width="300" alt="Logo da OBI">
 </p>
 
 Bem-vindo ao meu repositório de estudos e soluções da **Olimpíada Brasileira de Informática (OBI)**, contendo resoluções comentadas e organizadas das provas dos anos de **2020 a 2024**.
