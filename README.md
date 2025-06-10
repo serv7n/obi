@@ -34,7 +34,7 @@ obi/
 - As pastas estão separadas por **ano**.
 - Dentro de cada ano, há subdivisões por **nível** (caso aplicável): *iniciação*, *júnior*, *sênior* ou *níveis 1/2*.
 - Cada problema contém:
-  - Código-fonte (em `Python`/`C++`/outros, se aplicável).
+  - Código-fonte (em `Python`).
   - Comentários explicativos no código.
   - Nome do problema, ano e nível.
 
@@ -76,8 +76,7 @@ Sinta-se à vontade para abrir issues ou fazer pull requests com sugestões, mel
 
 Se quiser trocar ideia sobre programação competitiva ou tirar dúvidas:
 
-- ✉️ [Seu Email ou LinkedIn]
-- 🧑‍💻 [Seu GitHub Username]
+- 🧑‍💻 Leandro de Sousa da Silva
 
 ---
 
