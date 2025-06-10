@@ -15,7 +15,7 @@ Este repositório tem como objetivo:
 ---
 
 ## 📁 Estrutura do Repositório
-
+<pre>```
 obi/
 ├── provas/
 │ ├── nivel_1/
@@ -32,7 +32,7 @@ obi/
 │ └── 2024/
 ├── prog_nivel_2/
 └── README.md
-
+```</pre>
 
 - As pastas estão separadas por **nível** (`nivel_1` e `nivel_2`) e por **ano**.
 - Dentro de cada ano, os arquivos são nomeados conforme os problemas resolvidos.
